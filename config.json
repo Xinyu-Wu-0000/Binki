@@ -1,0 +1,11 @@
+{
+    "media_dir": "/home/wuxinyu/.local/share/Anki2/xinyu/collection.media/",
+    "apiKey": null,
+    "apiLogPath": null,
+    "webBindAddress": "127.0.0.1",
+    "webBindPort": 7856,
+    "webCorsOriginList": [
+        "http://localhost"
+    ],
+    "ignoreOriginList": []
+}
